@@ -1,0 +1,6 @@
+{
+  "name": "CloudNest",
+  "description": "Your Files. Your Space. Your Control. Cloud-based file storage and sharing system with secure vault, expiring share links, smart organization, and Java Spring Boot backend readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
